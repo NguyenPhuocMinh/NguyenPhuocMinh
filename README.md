@@ -1,5 +1,11 @@
 ## Hi there 👋 , welcome to my github page, feel free to check out what I've been up to!
 
+- [A little bit about me](#A-little-bit-about-me)
+- [Position](#Position)
+- [Portfolio](#Portfolio)
+
+---
+
 ### A little bit about me:
 
 - Nationality: VietNam
@@ -11,9 +17,10 @@
 💻  I am currently a software engineer and develop two languages main that are Nodejs and Reactjs ⚡️
 
 ### Portfolio
+
 🌎 If you want to contact me, please see my information here [portfolio](https://resum-cv.vercel.app/)
 
-I feel very excited if I was built and contributed a little bit of what I know for a big community like this 😄
+😄 I feel very excited if I was built and contributed a little bit of what I know for a big community like this 
 
 <!--
 **NguyenPhuocMinh/NguyenPhuocMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
