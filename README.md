@@ -11,7 +11,7 @@
 💻  I am currently a software engineer and develop two languages main that are Nodejs and Reactjs ⚡️
 
 ### Portfolio
-🌎 If you want to contact me, please see my information here [portfolio]([https://timbaker.me/](https://resum-cv.vercel.app/))
+🌎 If you want to contact me, please see my information here [portfolio](https://resum-cv.vercel.app/)
 
 I feel very excited if I was built and contributed a little bit of what I know for a big community like this 😄
 
