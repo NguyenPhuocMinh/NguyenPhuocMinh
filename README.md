@@ -1,10 +1,5 @@
 ## Hi there 👋 , welcome to my github page, feel free to check out what I've been up to!
 
-- [A little bit about me](#A-little-bit-about-me)
-- [Position](#Position)
-- [Portfolio](#Portfolio)
-
----
 
 ### A little bit about me:
 
