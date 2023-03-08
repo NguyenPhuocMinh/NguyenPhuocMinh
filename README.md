@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , welcome to my github page, feel free to check out what I've been up to!
+
+### A bit about me:
+
+- Nationality: VietNam
+- Personal interests: ⚽ 💻
+- Current location: 📍 DaNang, City
 
 <!--
 **NguyenPhuocMinh/NguyenPhuocMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
