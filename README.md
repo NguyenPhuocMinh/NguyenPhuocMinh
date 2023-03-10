@@ -13,7 +13,7 @@
 
 ### Portfolio
 
-🌎 If you want to contact me, please see my information here [portfolio](https://resum-cv.vercel.app/)
+🌎 If you want to contact me, please see my information here [portfolio](https://minhnp-cv.vercel.app/)
 
 😄 I feel very excited if I was built and contributed a little bit of what I know for a big community like this 
 
