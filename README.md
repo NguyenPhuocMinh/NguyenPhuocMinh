@@ -17,6 +17,7 @@
 
 😄 I feel very excited if I was built and contributed a little bit of what I know for a big community like this 
 
+🔭 I have a deploy documentation page on vercel dedicated to the lessons I have learned and done, you can refer to it [doc-tech](https://doc-tech.vercel.app/).
 <!--
 **NguyenPhuocMinh/NguyenPhuocMinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
